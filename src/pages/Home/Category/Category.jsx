@@ -64,7 +64,7 @@ const Category = () => {
         <img src={slide1} alt="" />
         <h3 className="text-4xl uppercase text-center -mt-20 text-white">Salads</h3>
       </SwiperSlide>
-      <SwiperSlide>
+      <SwiperSlide> 
         <img src={slide2} alt="" />
         <h3 className="text-4xl uppercase text-center -mt-20 text-white">Pizzas</h3>
       </SwiperSlide>

@@ -1,3 +1,4 @@
+import Boxmodel from "../../Boxmodel/Boxmodel";
 import Banner from "../Banner/Banner";
 import Category from "../Category/Category";
 
@@ -6,6 +7,7 @@ const Home = () => {
         <div>
            <Banner></Banner>
            <Category></Category>
+           <Boxmodel></Boxmodel>
         </div>
     );
 };
