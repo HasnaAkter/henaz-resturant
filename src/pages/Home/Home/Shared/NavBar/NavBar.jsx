@@ -15,6 +15,9 @@ const NavBar = () => {
       <li>
         <Link to="/menu">OUR MENU</Link>
       </li>
+      <li>
+        <Link to="/order/salad">OUR SHOP</Link>
+      </li>
       {/* <li><a>SIGN OUT</a></li> */}
       {/* <li tabIndex={0}>
         <details>
